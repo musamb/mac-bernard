@@ -248,14 +248,12 @@
 
   <div id="contactUs" class="jumbotron text-white">
     <div class="container">
-      <h1 class="display-3  font-italic">Contact Us</h1>
+      <h1 class="display-3  font-italic">service</h1>
       <p class="lead">
-        <strong>Flourish Hotel</strong> is located in the lively popular center of Gombe State, Nigeria. A historic district at the same time.
+        <strong>MacBernard Hotel</strong> is located in the lively popular center of Gombe State, Nigeria. A historic district at the same time.
         We have 43 guestrooms, all at which include air conditionals, flat sreen TVs, wifi, and 24 hours room service.
         We welcome you to our hotel for a truly authentic and fulfilling experience of real Gombe state.
         <br /> 
-        for more info call: <a href="tel: +2348065423935">+2348065423935</a>, or 
-        <a href="tel: +2347067630433">+2347067630433</a>
       </p>
     </div>
   </div>
@@ -264,25 +262,27 @@
     <!-- Example row of columns -->
     <div class="row">
       <div class="col-md-4">
-        <h2>Phone</h2>
+        <h2>Vision</h2>
         <p>
-          For your closed door conversation, presentation and other 
-          forms of discourse between two or more individuals. 
+        First paragraph... <br>
+          second paragraph... <br>
+          Some text here... 
         </p>
       </div>
       <div class="col-md-4">
-        <h2>Email</h2>
+        <h2>Motto</h2>
         <p>
-          The Hotel's conference hall has a seating capacity of 100
-          people in theater-layout
+          First paragraph... <br>
+          second paragraph... <br>
+          Some text here...
         </p>
       </div>
       <div class="col-md-4">
-        <h2>Map Location</h2>
+        <h2>Mission</h2>
         <p>
-          Offering you a fantastic and
-          delicious dishes from the local to the international.
-          It also offers an all-day dining menu
+        First paragraph... <br>
+          second paragraph... <br>
+          Some text here...
         </p>
       </div>
     </div>

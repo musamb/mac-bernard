@@ -10,17 +10,17 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#homePage" >Home <span class="sr-only">(current)</span></a>
+        <li class="nav-item">
+          <a class="nav-link" href="#homePage" >Home </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="rooms.php">Rooms</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="gallery.php">Gallery</a>
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Gallery <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#contactUs">Contact Us</a>
+          <a class="nav-link" href="index.php#contactUs">Contact Us</a>
         </li>
       </ul>
       <form class="form-inline mt-2 mt-md-0">
