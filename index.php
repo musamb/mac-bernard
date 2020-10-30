@@ -19,7 +19,7 @@
           <a class="nav-link" href="gallery.php">Gallery</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#contactUs">Contact Us</a>
+          <a class="nav-link" href="#contactUs">Service</a>
         </li>
       </ul>
       <form class="form-inline mt-2 mt-md-0">
@@ -248,7 +248,7 @@
 
   <div id="contactUs" class="jumbotron text-white">
     <div class="container">
-      <h1 class="display-3  font-italic">service</h1>
+      <h1 class="display-3  font-italic">Service</h1>
       <p class="lead">
         <strong>MacBernard Hotel</strong> is located in the lively popular center of Gombe State, Nigeria. A historic district at the same time.
         We have 43 guestrooms, all at which include air conditionals, flat sreen TVs, wifi, and 24 hours room service.
