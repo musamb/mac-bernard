@@ -2,6 +2,38 @@
 <html lang="en">
 <?php include('header.php') ?>
 
+<header>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a class="navbar-brand" href="#homePage">MacBernard Hotel</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#homePage" >Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="rooms.php">Rooms</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="gallery.php">Gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contactUs">Contact Us</a>
+        </li>
+      </ul>
+      <form class="form-inline mt-2 mt-md-0">
+        <span class="social-links text-center">
+          <a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+        </span>
+      </form>
+    </div>
+  </nav>
+</header>
+
 
 <div id="gallery" >
   <div class="d-inline-block d-xl-none ml-md-0 ml-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
