@@ -3,7 +3,7 @@
 <?php include('header.php') ?>
 
 
-
+   
 
 <div id="rooms" >
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -16,7 +16,7 @@
             <p>
 							These rooms are parlor & a bedroom, it comes with double bed.
 							And equipped with TV, Couch, Reading Table, Water Heater, Refrigerator, 
-							Air-Conditional, Wardrobe and Bath or Shower. 
+							Air-Conditional, Wardrobe and Bath. 
 						</p>
             <div class="btn-group">
               <button type="button" class="btn btn-sm btn-outline-success">More Info &raquo;</button>
