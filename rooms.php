@@ -13,6 +13,9 @@
         <li class="nav-item ">
           <a class="nav-link" href="index.php" >Home</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php#abouttUs">About Us</a>
+        </li>
         <li class="nav-item active">
           <a class="nav-link" href="#">Rooms <span class="sr-only">(current)</span></a>
         </li>
@@ -150,6 +153,9 @@
             </div>
           </div>
         </div>
+        </div>
+        </div>
+        </dive>
 
        
 

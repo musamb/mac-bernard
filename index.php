@@ -13,6 +13,9 @@
           <a class="nav-link" href="#homePage" >Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="#abouttUs">About Us</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="rooms.php">Rooms</a>
         </li>
         <li class="nav-item">
@@ -261,7 +264,7 @@
   <div class="container mt-10">
     <!-- Example row of columns -->
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-6">
         <h2>Vision</h2>
         <p>
         First paragraph... <br>
@@ -269,7 +272,7 @@
           Some text here... 
         </p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6">
         <h2>Motto</h2>
         <p>
           First paragraph... <br>
@@ -277,7 +280,7 @@
           Some text here...
         </p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6">
         <h2>Mission</h2>
         <p>
         First paragraph... <br>
@@ -347,7 +350,7 @@
                     <label data-error="wrong" data-success="right" for="defaultForm-email">Email:</label>
                     <div class="text-danger"><?php echo $errors['Email']; ?></div>
                   </div>
-                  <div class="md-form form-control mb-4">
+                  <div class="md-form form-label-group mb-4">
                     <textarea rows="4" class="form-control" name="comment" id="comment" required placeholder="Enter your Comment here" value="<?php echo htmlspecialchars($comment) ?>"></textarea>
                     <label data-error="wrong" data-success="right" for="comment">Comment:</label>
                     <div class="text-danger"><?php echo $errors['comment']; ?></div>

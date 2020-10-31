@@ -14,6 +14,9 @@
           <a class="nav-link" href="#homePage" >Home </a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="index.php#abouttUs">About Us</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="rooms.php">Rooms</a>
         </li>
         <li class="nav-item active">
