@@ -264,7 +264,7 @@
   <div class="container mt-10">
     <!-- Example row of columns -->
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-4 col-lg-4">
         <h2>Vision</h2>
         <p>
         First paragraph... <br>
@@ -272,7 +272,7 @@
           Some text here... 
         </p>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4 col-lg-4">
         <h2>Motto</h2>
         <p>
           First paragraph... <br>
@@ -280,7 +280,7 @@
           Some text here...
         </p>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4 col-lg-4">
         <h2>Mission</h2>
         <p>
         First paragraph... <br>
