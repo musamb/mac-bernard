@@ -32,17 +32,17 @@
                   <span aria-hidden="true">&times;</span>
                 </div>
                 <div class="modal-body mx-3">
-                  <div class="md-form form-label-group mb-5">
+                  <div class="md-form form-label-group mb-1">
                     <input validate required autofocus type="email" id="fullName" class="form-control form-control-sm" name="fullName" placeholder="Full Name" value="<?php echo htmlspecialchars($fullName) ?>">
                     <label data-error="wrong" data-success="right" for="fullName">Names:</label>
                     <div class="text-danger"><?php echo $errors['fullName']; ?></div>
                   </div>
-                  <div class="md-form form-label-group mb-5">
+                  <div class="md-form form-label-group mb-1">
                     <input validate required type="email" id="defaultForm-email" class="form-control form-control-sm" name="Email" placeholder="Email Address" value="<?php echo htmlspecialchars($email) ?>">
                     <label data-error="wrong" data-success="right" for="defaultForm-email">Email:</label>
                     <div class="text-danger"><?php echo $errors['Email']; ?></div>
                   </div>
-                  <div class="md-form form-label-group mb-4">
+                  <div class="md-form form-label-group mb-1">
                     <textarea rows="4" class="form-control" name="comment" id="comment" required placeholder="Enter your Comment here" value="<?php echo htmlspecialchars($comment) ?>"></textarea>
                     <label data-error="wrong" data-success="right" for="comment"></label>
                     <div class="text-danger"><?php echo $errors['comment']; ?></div>
