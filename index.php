@@ -227,21 +227,18 @@
     <div class="row">
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <h2>Tylar Timeaus</h2>
+        <p>General Manager</p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-        <h2>Heading</h2>
-        <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <h2>Charles Wilson</h2>
+        <p>Managing Director</p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        <h2>Benson Mike</h2>
+        <p>Director</p>
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
   </div>
@@ -256,7 +253,7 @@
     <div class="container">
       <h1 class="display-3  font-italic">Service</h1>
       <p class="lead">
-        <strong>MacBernard Hotel</strong> is located in the lively popular center of Gombe State, Nigeria. A historic district at the same time.
+        <strong>MacBernard</strong> is located in the lively popular center of Gombe State, Nigeria. A historic district at the same time.
         We have 43 guestrooms, all at which include air conditionals, flat sreen TVs, wifi, and 24 hours room service.
         We welcome you to our hotel for a truly authentic and fulfilling experience of real Gombe state.
         <br /> 
@@ -264,30 +261,30 @@
     </div>
   </div>
 
-  <div class="container mt-10">
+  <div class="container mt-10 justify-content-center">
     <!-- Example row of columns -->
-    <div class="row">
-      <div class="col-md-4 col-lg-4">
+    <div class="row justify-content-center">
+      <div class="col-lg-4">
         <h2>Vision</h2>
         <p>
         First paragraph... <br>
-          second paragraph... <br>
+          Second paragraph... <br>
           Some text here... 
         </p>
       </div>
-      <div class="col-md-4 col-lg-4">
+      <div class="col-lg-4">
         <h2>Motto</h2>
         <p>
           First paragraph... <br>
-          second paragraph... <br>
+          Second paragraph... <br>
           Some text here...
         </p>
       </div>
-      <div class="col-md-4 col-lg-4">
+      <div class="col-lg-4">
         <h2>Mission</h2>
         <p>
         First paragraph... <br>
-          second paragraph... <br>
+          Second paragraph... <br>
           Some text here...
         </p>
       </div>
