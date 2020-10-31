@@ -26,7 +26,7 @@
           <div class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-sm" role="document">
               <div class="modal-content">
-                <div class="modal-header form-control text-center">
+                <div class="modal-header form-label-group text-center">
                   <h4 class="modal-title w-100 font-weight-bold text-center">Comment</h4>
                   <input class="close bg-transparent border-0 text-danger" type="button" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
@@ -48,7 +48,7 @@
                     <div class="text-danger"><?php echo $errors['comment']; ?></div>
                   </div>
                 </div>
-                <div class="modal-footer form-control d-flex justify-content-center">
+                <div class="modal-footer form-label-group justify-content-center">
                   <input type="submit" class="btn btn-sm btn-info" name="Submit" value="Submit" >
                 </div>
               </div>
