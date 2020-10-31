@@ -41,7 +41,8 @@
   <div id="homePage" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-      <img class="bd-placeholder-img d-none d-md-block" src="image/rt.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+      <img class="bd-placeholder-img d-none d-sm-block" src="image/rt.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+      <img class="bd-placeholder-img d-xs-none" src="images/img_10.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
         <div class="container">
           <div class="carousel-caption text-left">
             <h1>MACBERNARD HOTEL</h1>
@@ -51,7 +52,8 @@
         </div>
       </div>
       <div class="carousel-item">
-      <img class="bd-placeholder-img d-none d-md-block" src="image/rm.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+      <img class="bd-placeholder-img d-none d-sm-block" src="image/rm.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+      <img class="bd-placeholder-img d-xs-none" src="images/img_8.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
         <div class="container">
           <div class="carousel-caption">
             <h1>RESTAURANT</h1>
@@ -63,7 +65,8 @@
         </div>
       </div>
       <div class="carousel-item">
-      <img class="bd-placeholder-img d-none d-md-block" src="image/hr.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+      <img class="bd-placeholder-img d-none d-sm-block" src="image/hr.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+      <img class="bd-placeholder-img d-xs-none" src="image/Portrait.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
         <div class="container">
           <div class="carousel-caption text-right">
             <h1>CONFERENCE HALL</h1>
