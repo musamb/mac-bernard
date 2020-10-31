@@ -61,7 +61,7 @@
       </div> 
       <div class="carousel-item">
         <img class="bd-placeholder-img d-none d-sm-block" src="image/img1.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
-      <img class="bd-placeholder-img d-xs-none" src="image/vintry.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+      <img class="bd-placeholder-img d-xs-none" src="image/oli.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
         <div class="container">
           <div class="carousel-caption">
             <h1>ROYAL</h1>
@@ -79,7 +79,7 @@
       </div>
       <div class="carousel-item">
         <img class="bd-placeholder-img d-none d-sm-block" src="image/img4.jpeg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
-      <img class="bd-placeholder-img d-xs-none" src="image/portrait.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
+      <img class="bd-placeholder-img d-xs-none" src="image/Vintry.jpg" alt="" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/>
         <div class="container">
           <div class="carousel-caption text-right">
             <h1>EXECUTIVE</h1>
