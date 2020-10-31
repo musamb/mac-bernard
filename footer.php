@@ -48,8 +48,8 @@
                     <div class="text-danger"><?php echo $errors['comment']; ?></div>
                   </div>
                 </div>
-                <div class="modal-footer form-label-group d-flex justify-content-center">
-                  <input type="submit" class="btn  btn-info" name="Submit" value="Submit" >
+                <div class="modal-footer form-label-group d-flex">
+                  <input type="submit" class="btn btn-sm btn-info" name="Submit" value="Submit" >
                 </div>
               </div>
             </div>
