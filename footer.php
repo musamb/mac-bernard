@@ -49,7 +49,7 @@
                   </div>
                 </div>
                 <div class="modal-footer form-control d-flex justify-content-center">
-                  <input type="submit" class="btn btn-sm btn-info" name="Submit" value="Sign In" >
+                  <input type="submit" class="btn btn-sm btn-info" name="Submit" value="Submit" >
                 </div>
               </div>
             </div>
